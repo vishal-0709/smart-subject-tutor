@@ -153,6 +153,10 @@ activemq-data/
 .env
 .envrc
 .venv
+.env
+.envrc
+.chroma_db/
+.streamlit/
 env/
 venv/
 ENV/
